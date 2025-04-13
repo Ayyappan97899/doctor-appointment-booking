@@ -1,11 +1,17 @@
 # 🩺 Doctor Appointment Booking System
 
-A modern web application for booking doctor appointments, built with **Next.js**. Users can book appointments seamlessly.
+A modern and responsive web application for booking doctor appointments, built using **Next.js**. Users can seamlessly book appointments.
+
+---
 
 ## 🚀 Features
 
 - Book and manage appointments
-- Fully responsive UI
+- Responsive and mobile-friendly interface
+- Fast, optimized performance with Next.js
+- Easy deployment and hosting via Vercel
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -24,29 +30,37 @@ A modern web application for booking doctor appointments, built with **Next.js**
 
 ### Installation
 
-1. Clone the repository
+1. **Clone the repository**
 
-git clone https://github.com/your-username/doctor-appointment-booking.git
-cd doctor-appointment-booking
+   ```bash
+   git clone https://github.com/Ayyappan97899/doctor-appointment-booking.git
+   cd doctor-appointment-booking
+   ```
 
-2. Install dependencies
+2. **Install dependencies**
 
-npm install
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
-# or
+3. **Run the development server**
 
-yarn install
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
 
-3. Run the development server
+4. Open your browser and visit:  
+   [http://localhost:3000](http://localhost:3000)
 
-npm run dev
+---
 
-# or
+## 🌐 Live Demo
 
-yarn dev
+Check out the live version hosted on Vercel:  
+🔗 [https://doctor-appointment-booking-wheat.vercel.app/](https://doctor-appointment-booking-wheat.vercel.app/)
 
-Visit http://localhost:3000 to view the app.
-
-🚀 Live Demo
-
-🌐 Vercel Deployment: https://doctor-appointment-booking-wheat.vercel.app/
+---
