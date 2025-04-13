@@ -1,4 +1,3 @@
-import { useCalendarContext } from "@/context/CalendarContext";
 import { useEffect } from "react";
 
 type Event = {

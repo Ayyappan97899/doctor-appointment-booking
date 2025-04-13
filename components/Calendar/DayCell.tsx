@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 import { useCalendarContext } from "@/context/CalendarContext";
 import dayjs from "dayjs";
 import EventListModal from "./EventListModal";

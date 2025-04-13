@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 import dayjs from "dayjs";
 import DayCell from "./DayCell";
 import { getEventsForDate } from "@/utils/calendarUtils";
